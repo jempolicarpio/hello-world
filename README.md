@@ -1,4 +1,4 @@
 # hello-world
-My very first repo!
+Very first repo!
 
-I hope this is a beginning of something meaningful.
+First lines.
